@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, we are from we are from O-PY-THA-ON organization</h1>
+<h1 align="center">Hi people 👋, we are from O-PY-THA-ON organization</h1>
 <h3 align="center">Repository for the Sirius Education Data Science Fellowship Course Completion Challenge</h3>
 
 - 🔭 We are currently working on [O-PY-THA-ON](https://github.com/O-PY-THA-ON/dcc---fellowship-ci-ncia-de-dados/)
