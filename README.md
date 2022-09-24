@@ -21,6 +21,15 @@
 <br>
 <br>  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-arnobio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira-3101ba181/" height="30" width="40" /></a> Daniel Arnobio
+<br>
+<br>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-arnobio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira-3101ba181/" height="30" width="40" /></a> Filipe Cruz
+<br>
+<br>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-arnobio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira-3101ba181/" height="30" width="40" /></a> Andred Deitos
+<br>
+<br>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-arnobio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira-3101ba181/" height="30" width="40" /></a> Xaiene Santos
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
