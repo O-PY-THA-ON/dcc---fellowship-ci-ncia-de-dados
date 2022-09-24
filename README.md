@@ -7,7 +7,13 @@
 
 - 💬 Ask about **SQL,PYTHON,DATAVIZ,MACHINE LEARNING**
 
-- 📫 How to reach me **filipenq@gmail.com**
+- 📫 Collaborators' contact e-mails:<br>
+**filipenq@gmail.com**<br>
+**daniel.arnobio1@gmail.com**<br>
+**andreluizdeitos@gmail.com**<br>
+**xai.san.cos@gmail.com**<br>
+**nunesnbnxn@gmail.com**<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
