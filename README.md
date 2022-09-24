@@ -23,13 +23,13 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-arnobio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira-3101ba181/" height="30" width="40" /></a> Daniel Arnobio
 <br>
 <br>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-arnobio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira-3101ba181/" height="30" width="40" /></a> Filipe Cruz
+<a href="https://www.linkedin.com/in/filipecruz1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira-3101ba181/" height="30" width="40" /></a> Filipe Cruz
 <br>
 <br>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-arnobio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira-3101ba181/" height="30" width="40" /></a> Andred Deitos
+<a href="https://www.linkedin.com/in/andred88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira-3101ba181/" height="30" width="40" /></a> André Deitos
 <br>
 <br>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-arnobio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira-3101ba181/" height="30" width="40" /></a> Xaiene Santos
+<a href="https://www.linkedin.com/in/xaiene-santos-63046614b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira-3101ba181/" height="30" width="40" /></a> Xaiene Santos
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
