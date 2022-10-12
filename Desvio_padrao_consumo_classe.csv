@@ -1,0 +1,55 @@
+,Classe,Items,Desvio-Padrão
+0,Classe A, Arroz polido,1.9274689794304511
+1,Classe A,Açúcar cristal,2.1569608248644667
+2,Classe A,Café moído,0.4804754589640003
+3,Classe A,Farinha de mandioca,1.8737813817696733
+4,Classe A,Farinha de trigo,2.052089179348695
+5,Classe A,Feijão,0.6162545715608908
+6,Classe A,Fubá de milho,0.2667583175835386
+7,Classe A,Molho de tomate,0.4577626750475257
+8,Classe A,Óleo de soja,0.7386113095984024
+9,Classe B, Arroz polido,2.344071244651067
+10,Classe B,Açúcar cristal,1.0216212605461965
+11,Classe B,Café moído,0.31709094384208886
+12,Classe B,Farinha de mandioca,2.965416777902672
+13,Classe B,Farinha de trigo,1.8063628280793056
+14,Classe B,Feijão,0.6780631954100569
+15,Classe B,Fubá de milho,0.469240521126071
+16,Classe B,Molho de tomate,0.5059018350101793
+17,Classe B,Óleo de soja,1.3254345199468234
+18,Classe C, Arroz polido,3.5040719170701964
+19,Classe C,Açúcar cristal,1.8361635729603905
+20,Classe C,Café moído,0.19705329228409252
+21,Classe C,Farinha de mandioca,4.254467847647537
+22,Classe C,Farinha de trigo,2.0076827438616887
+23,Classe C,Feijão,0.6951057255532929
+24,Classe C,Fubá de milho,0.31040296390337513
+25,Classe C,Molho de tomate,0.3336315332818527
+26,Classe C,Óleo de soja,0.8484102781084161
+27,Classe D, Arroz polido,3.1224840538690772
+28,Classe D,Açúcar cristal,1.1050022624411224
+29,Classe D,Café moído,0.2111555508781776
+30,Classe D,Farinha de mandioca,3.5539255291391045
+31,Classe D,Farinha de trigo,2.818812988948835
+32,Classe D,Feijão,0.7022172675953582
+33,Classe D,Fubá de milho,0.5222547271207796
+34,Classe D,Molho de tomate,0.4176801008746606
+35,Classe D,Óleo de soja,1.0165956259332747
+36,Classe E, Arroz polido,5.443814838879075
+37,Classe E,Açúcar cristal,1.3024540938807272
+38,Classe E,Café moído,0.18744777050332342
+39,Classe E,Farinha de mandioca,4.448566810408344
+40,Classe E,Farinha de trigo,2.640641336241381
+41,Classe E,Feijão,0.8500601582989717
+42,Classe E,Fubá de milho,0.710230009691696
+43,Classe E,Molho de tomate,0.34277786781918507
+44,Classe E,Óleo de soja,1.2432484332049913
+45,Classe F, Arroz polido,3.9905170926418387
+46,Classe F,Açúcar cristal,1.3796630023306415
+47,Classe F,Café moído,0.13017936344392952
+48,Classe F,Farinha de mandioca,4.256273800716616
+49,Classe F,Farinha de trigo,2.5874234288187155
+50,Classe F,Feijão,0.8866941497221662
+51,Classe F,Fubá de milho,1.061979284167069
+52,Classe F,Molho de tomate,0.2826599841977401
+53,Classe F,Óleo de soja,0.9457836257129146
